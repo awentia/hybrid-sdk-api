@@ -1,7 +1,6 @@
 # Awentia Hybrid Cloud API Documentation
 
-A comprehensive guide to using the Hybrid Cloud API to configure Awentia's smart camera.
-
+A comprehensive guide to using the Hybrid Cloud API to configure Awentia's Hybrid SDK
 ## Navigation
 - [Installation](#installation)
 - [Configuration](#configuration)
