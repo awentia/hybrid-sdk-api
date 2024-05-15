@@ -5,9 +5,9 @@ A comprehensive guide to using the Hybrid Cloud API to configure Awentia's smart
 ## Navigation
 - [Installation](#installation)
 - [Configuration](#configuration)
+- [Output Database Format](#output-database-format)
 - [Usage Examples](#usage-examples)
 - [Function Descriptions](#function-descriptions)
-- [Output Database Format](#output-database-format)
 
 ## Installation
 
