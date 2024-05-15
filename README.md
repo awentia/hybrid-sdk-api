@@ -30,7 +30,7 @@ api.setOutputFormat('/tmp/outputFormat.xml');
 
 ## Output Database Format
 
-The format of the output database record is as follows in an XML file:
+The this XML file is an example of the output format database record:
 
 ```xml
 <record>
