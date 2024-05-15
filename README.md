@@ -1,6 +1,6 @@
 # Awentia Hybrid SDK API Documentation
 
-A comprehensive guide to using the Hybrid SDK API to configure Awentia's Hybrid SDK cloud istance on your application
+A comprehensive guide to using the Hybrid SDK API to configure Awentia's Hybrid SDK istance on your application
 ## Navigation
 - [Installation](#installation)
 - [Configuration](#configuration)
